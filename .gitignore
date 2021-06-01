@@ -12,3 +12,4 @@
 /data/*.tar
 /data/voc/test/*
 /data/voc/train/*
+/logs/*
