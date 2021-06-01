@@ -10,3 +10,5 @@
 /data/logs/*
 /data/*.zip
 /data/*.tar
+/data/voc/test/*
+/data/voc/train/*
