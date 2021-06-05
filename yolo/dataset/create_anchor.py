@@ -82,5 +82,5 @@ class Anchor(object):
 
 if __name__ == '__main__':
     anchor = Anchor()
-    anchors = anchor.generate_anchor(annotations_dir='../data/voc2012/VOCdevkit/VOC2012/train.txt', k=9)
+    anchors = anchor.generate_anchor(annotations_dir='../data/voc/voc_train.txt', k=9)
     print(anchors)
